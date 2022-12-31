@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Exo:wght@500&display=swap');
 
-.body {
+body {
     font-family: "Montserrat", sans-serif;
     height: 100vh;
     display: flex;
